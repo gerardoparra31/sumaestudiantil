@@ -1,6 +1,6 @@
-# sumaestudiantil
-actividad5
-## una visión a la suma, ¿qué es? y ejemplo de la misma.
+# Suma estudiantil
+
+## Una visión a la suma, ¿qué es?. 
 
 *La suma es un género literario y argumentativo propio del medievo en donde destaca la suma teológica de Santo Tomás de Aquino, además de otros nombres que podemos ver como Simón de Tournai , Prepositino de Cremona, Gerardo de Bolonia, etc. 
 
