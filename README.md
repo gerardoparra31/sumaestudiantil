@@ -10,7 +10,10 @@ Concretamente dentro de la suma teológica de Santo Tomás de Aquino vemos esta 
 
 Además como ya había mencionado los artículos igualmente se estructuran con objeciones en su interior en contra de la postura del autor (son objeciones que alguien podría decir) y luego el autor da razones a favor de la postura para reafirmarla y dar su veredicto sobre ella.
 
-## Veamos una suma real.  
+## Veamos una suma real medieval.  
+
+![Captura de pantalla (77)](https://user-images.githubusercontent.com/115519596/194997178-66472ad1-bece-4ee0-a4e1-d101fab59695.png)
+
 
 Primero quiero mencionar que el manuscrito que encontré en realidad son 3 manuscritos unidos en una sola edición, de ahí lo primero que noté fue la diferencia en los estilos y forma de trabajar de los autores ya que la letra y la aglomeración de palabras eran muy distintas de forma evidente; tomé de ejemplo esta página y otra de un autor distinto. 
 
@@ -18,19 +21,9 @@ Vemos cómo este autor es muy limpio y ordenado, además a lo largo de su manusc
 
 Otro elemento que no sé si sea una táctica o un elemento utilizado a propósito es la estética del manuscrito ya que se nota el esmero en que el texto sea estético , lo vemos en el orden, la sangría bien respetada (a lo posible), el cambio de tintas y la letra con la que inicia cada párrafo es sumamente bella y se nota el esmero, la verdad no sé si esta estetica del manuscrito es una herramienta utilizada para capturar más la atención del lector y ayudar a ese enganche y la fácil lectura del propio texto al no haber obstáculos en el camino o sea simplemente una manía o forma cotidiana de escribir del autor sin más implicaciones. 
 
+# Ahora otro ejemplo. 
 
-
-
-
-
-
-
-
-
-
-
-
-
+![Volume_composé_de_trois_manuscrits_Robert_de_btv1b52517146s](https://user-images.githubusercontent.com/115519596/194997273-ccdee04d-708f-4235-ac83-c5f6e616050f.JPEG)
 
 
 Vemos que este manuscrito es bastante menos organizado y menos estético que el otro, además vemos que cambia el uso del subrayado por dos elementos igual de interesantes. 
